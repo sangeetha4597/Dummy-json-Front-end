@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Harvard University", "country": "USA" },
+    { "id": 2, "name": "University of Cambridge", "country": "UK" },
+    { "id": 3, "name": "University of Tokyo", "country": "Japan" }
+]

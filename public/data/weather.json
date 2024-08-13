@@ -1,0 +1,7 @@
+[
+    {"location": "City A","temperature": 25, "condition": "Sunny"},
+    {"location": "City B","temperature": 15, "condition": "Rainy"},
+    {"location": "City C","temperature": 20, "condition": "Cloudy"},
+    {"location": "City D","temperature": 10, "condition": "Snowy"}
+    
+]

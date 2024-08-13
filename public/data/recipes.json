@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Pasta Carbonara", "ingredients": ["Pasta", "Eggs", "Cheese"] },
+    { "id": 2, "name": "Chicken Curry", "ingredients": ["Chicken", "Curry Powder", "Coconut Milk"] },
+    { "id": 3, "name": "Caesar Salad", "ingredients": ["Lettuce", "Croutons", "Caesar Dressing"] }
+]

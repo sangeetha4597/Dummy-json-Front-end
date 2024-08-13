@@ -1,0 +1,5 @@
+[
+    { "id": 1, "postId": 1, "text": "Great post!" },
+    { "id": 2, "postId": 1, "text": "Thanks for sharing." },
+    { "id": 3, "postId": 2, "text": "Very informative." }
+]

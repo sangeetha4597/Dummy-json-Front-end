@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "New York", "population": 8175133 },
+    { "id": 2, "name": "Los Angeles", "population": 3792621 },
+    { "id": 3, "name": "Chicago", "population": 2695598 },
+    { "id": 4, "name": "New York", "country": "USA" },
+    { "id": 5, "name": "London", "country": "UK" },
+    { "id": 6, "name": "Paris", "country": "France" }
+]

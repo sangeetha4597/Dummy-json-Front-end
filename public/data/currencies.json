@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "US Dollar", "code": "USD" },
+    { "id": 2, "name": "Euro", "code": "EUR" },
+    { "id": 3, "name": "British Pound", "code": "GBP" },
+    { "id": 4, "name": "Japanese Yen", "code": "JPY" },
+    { "id": 5, "name": "Canadian Dollar", "code": "CAD" },
+    { "id": 6, "name": "Australian Dollar", "code": "AUD" }
+]

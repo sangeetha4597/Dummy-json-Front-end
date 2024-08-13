@@ -1,0 +1,98 @@
+{
+    "users": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com" },
+      { "id": 2, "name": "Jane Smith", "email": "jane@example.com" },
+      { "id": 3, "name": "John Doe", "email": "john@example.com" },
+      { "id": 4, "name": "Jane Smith", "email": "jane@example.com" },
+      { "id": 5, "name": "Alice Johnson", "email": "alice@example.com" }
+    ],
+    "posts": [
+      { "id": 1, "title": "Post 1", "content": "Content of post 1" },
+      { "id": 2, "title": "Post 2", "content": "Content of post 2" }, 
+      { "id": 3, "title": "Post 3", "content": "This is the 3rd post content." },
+      { "id": 4, "title": "Post 4", "content": "This is the 4th post content." },
+      { "id": 5, "title": "Post 5", "content": "This is the 5th post content." }
+    ],
+    "comments":[
+        { "id": 1, "postId": 1, "text": "Great post!" },
+        { "id": 2, "postId": 1, "text": "Thanks for sharing." },
+        { "id": 3, "postId": 2, "text": "Very informative." }
+    ],
+    "products":[
+        { "id": 1, "name": "Product A", "price": 10.99 },
+        { "id": 2, "name": "Product B", "price": 15.99 },
+        { "id": 3, "name": "Product C", "price": 12.99 }
+    ],
+    "books":[
+        { "id": 1, "title": "Book A", "author": "Author A" },
+        { "id": 2, "title": "Book B", "author": "Author B" },
+        { "id": 3, "title": "Book C", "author": "Author C" }
+    ],
+    "movies":[
+        { "id": 1, "title": "Movie A", "director": "Director A" },
+        { "id": 2, "title": "Movie B", "director": "Director B" },
+        { "id": 3, "title": "Movie C", "director": "Director C" }
+    ],
+    "weather":[
+        {"location": "City A","temperature": 25, "condition": "Sunny"},
+        {"location": "City B","temperature": 15, "condition": "Rainy"},
+        {"location": "City C","temperature": 20, "condition": "Cloudy"},
+        {"location": "City D","temperature": 10, "condition": "Snowy"}
+        
+    ],
+    "universities":[
+        { "id": 1, "name": "Harvard University", "country": "USA" },
+        { "id": 2, "name": "University of Cambridge", "country": "UK" },
+        { "id": 3, "name": "University of Tokyo", "country": "Japan" }
+    ],
+    "recipes":[
+        { "id": 1, "name": "Pasta Carbonara", "ingredients": ["Pasta", "Eggs", "Cheese"] },
+        { "id": 2, "name": "Chicken Curry", "ingredients": ["Chicken", "Curry Powder", "Coconut Milk"] },
+        { "id": 3, "name": "Caesar Salad", "ingredients": ["Lettuce", "Croutons", "Caesar Dressing"] }
+    ],
+    "quotes":[
+        { "id": 1, "quote": "To be or not to be, that is the question.", "author": "William Shakespeare" },
+        { "id": 2, "quote": "The only thing we have to fear is fear itself.", "author": "Franklin D. Roosevelt" },
+        { "id": 3, "quote": "I think, therefore I am.", "author": "René Descartes" }
+    ],
+    "animals":[
+        { "id": 1, "name": "Lion", "species": "Panthera leo" },
+        { "id": 2, "name": "Elephant", "species": "Loxodonta" },
+        { "id": 3, "name": "Tiger", "species": "Panthera tigris" }
+    ],
+    "cars":[
+        { "id": 1, "make": "Toyota", "model": "Corolla" },
+        { "id": 2, "make": "Honda", "model": "Civic" },
+        { "id": 3, "make": "Ford", "model": "Fiesta" },
+        { "id": 4, "make": "Ford", "model": "Mustang" }
+    ],
+    "cities":[
+        { "id": 1, "name": "New York", "population": 8175133 },
+        { "id": 2, "name": "Los Angeles", "population": 3792621 },
+        { "id": 3, "name": "Chicago", "population": 2695598 },
+        { "id": 4, "name": "New York", "country": "USA" },
+        { "id": 5, "name": "London", "country": "UK" },
+        { "id": 6, "name": "Paris", "country": "France" }
+    ],
+    "countries":[
+        { "id": 1, "name": "USA", "capital": "Washington, D.C." },
+        { "id": 2, "name": "UK", "capital": "London" },
+        { "id": 3, "name": "France", "capital": "Paris" },
+        { "id": 1, "name": "United States", "code": "US" },
+        { "id": 2, "name": "Canada", "code": "CA" },
+        { "id": 3, "name": "United Kingdom", "code": "GB" },
+        { "id": 4, "name": "Germany", "code": "DE" },
+        { "id": 5, "name": "France", "code": "FR" },
+        { "id": 6, "name": "Japan", "code": "JP" }
+    ],
+    "currencies":[
+        { "id": 1, "name": "US Dollar", "code": "USD" },
+        { "id": 2, "name": "Euro", "code": "EUR" },
+        { "id": 3, "name": "British Pound", "code": "GBP" },
+        { "id": 4, "name": "Japanese Yen", "code": "JPY" },
+        { "id": 5, "name": "Canadian Dollar", "code": "CAD" },
+        { "id": 6, "name": "Australian Dollar", "code": "AUD" }
+    ]
+    
+    
+  }
