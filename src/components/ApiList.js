@@ -37,15 +37,15 @@ const ApiList = () => {
 
 const [jsonData, setJsonData] = useState({});
 
-    const fetchJsonData = async (file) => {
-        try {
-            const response = await fetch(`./data.json${file}`);
-            const data = await response.json();
-            setJsonData(prev => ({ ...prev, [file]: data }));
-        } catch (error) {
-            console.error(`Error fetching ${file}:`, error);
-        }
-    };
+    // const fetchJsonData = async (file) => {
+    //     try {
+    //         const response = await fetch(`./data.json${file}`);
+    //         const data = await response.json();
+    //         setJsonData(prev => ({ ...prev, [file]: data }));
+    //     } catch (error) {
+    //         console.error(`Error fetching ${file}:`, error);
+    //     }
+    // };
 
     return (
         <div className="api-list">

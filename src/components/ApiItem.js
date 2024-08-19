@@ -26,7 +26,8 @@ const ApiItem = ({ api }) => {
     
 
     const handleCopyUrl = async () => {
-         const apiUrl = `${window.location.origin}/data.json#${api.file}`;
+          const apiUrl = `${window.location.origin}/data.json#${api.file}`;
+        //  const apiUrl = `${window.location.origin}/api/posts/${api.file}`
       if (navigator.clipboard) {
             try {
                 await navigator.clipboard.writeText(apiUrl);
